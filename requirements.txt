@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+camelot-py[pandas]
+pandas
+openpyxl
+tabula-py
